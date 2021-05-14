@@ -1,0 +1,1201 @@
+2021-04-24 18:47:41,922 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-24 18:49:47,107 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-24 19:18:16,828 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-24 19:34:58,288 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-24 19:38:43,588 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-25 06:30:30,207 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-25 07:29:39,796 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-25 09:59:35,155 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-25 10:06:08,066 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 8
+val_batch_size: 8
+2021-04-25 19:53:58,235 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 100
+val_batch_size: 100
+2021-04-26 08:29:04,074 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-26 14:06:14,589 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-26 14:07:13,123 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-26 14:07:29,713 inference INFO: Start inferencing
+2021-04-26 14:08:13,926 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-26 14:08:30,433 inference INFO: Start inferencing
+2021-04-26 14:09:24,320 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-26 14:09:40,588 inference INFO: Start inferencing
+2021-04-28 15:24:19,352 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 15:24:50,128 inference INFO: Start inferencing
+2021-04-28 15:25:35,570 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 15:25:58,516 inference INFO: Start inferencing
+2021-04-28 15:26:32,807 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 15:26:58,461 inference INFO: Start inferencing
+2021-04-28 18:21:31,940 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 18:21:55,390 inference INFO: Start inferencing
+2021-04-28 20:44:46,778 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 20:45:08,093 inference INFO: Start inferencing
+2021-04-28 20:54:52,027 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 20:55:07,099 inference INFO: Start inferencing
+2021-04-28 21:30:18,463 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 21:30:40,671 inference INFO: Start inferencing
+2021-04-28 22:58:29,763 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 22:59:26,168 inference INFO: Start inferencing
+2021-04-28 23:00:33,193 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 23:01:31,333 inference INFO: Start inferencing
+2021-04-28 23:12:03,262 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 23:12:25,290 inference INFO: Start inferencing
+2021-04-28 23:13:44,544 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 23:14:06,537 inference INFO: Start inferencing
+2021-04-28 23:18:02,139 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-28 23:18:24,166 inference INFO: Start inferencing
+2021-04-29 05:13:55,255 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 05:14:17,520 inference INFO: Start inferencing
+2021-04-29 11:55:38,389 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 11:56:00,070 inference INFO: Start inferencing
+2021-04-29 11:56:59,869 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 11:57:21,655 inference INFO: Start inferencing
+2021-04-29 11:59:40,169 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 12:00:02,042 inference INFO: Start inferencing
+2021-04-29 12:03:20,693 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 12:03:42,768 inference INFO: Start inferencing
+2021-04-29 12:09:25,121 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 12:09:48,418 inference INFO: Start inferencing
+2021-04-29 12:10:18,538 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 12:10:42,028 inference INFO: Start inferencing
+2021-04-29 13:12:40,484 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:15:07,799 inference INFO: Start inferencing
+2021-04-29 13:19:29,221 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:22:15,173 inference INFO: Start inferencing
+2021-04-29 13:26:09,027 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:26:31,800 inference INFO: Start inferencing
+2021-04-29 13:29:56,744 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:32:58,682 inference INFO: Start inferencing
+2021-04-29 13:36:08,072 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:36:30,589 inference INFO: Start inferencing
+2021-04-29 13:46:15,704 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:46:35,594 inference INFO: Start inferencing
+2021-04-29 13:47:19,925 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:47:39,948 inference INFO: Start inferencing
+2021-04-29 13:51:49,434 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:52:12,215 inference INFO: Start inferencing
+2021-04-29 13:55:18,989 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-04-29 13:55:41,367 inference INFO: Start inferencing
+2021-04-29 13:55:48,942 inference INFO: batch_time: 1.2619 batch_memory: 2.30
+2021-04-29 13:55:48,943 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 07:50:37,543 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 07:51:03,622 inference INFO: Start inferencing
+2021-05-08 07:51:10,840 inference INFO: batch_time: 1.2025 batch_memory: 2.30
+2021-05-08 07:51:10,841 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 07:55:20,346 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 07:55:41,526 inference INFO: Start inferencing
+2021-05-08 07:59:20,179 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 07:59:41,431 inference INFO: Start inferencing
+2021-05-08 08:04:18,621 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 08:04:39,944 inference INFO: Start inferencing
+2021-05-08 08:13:56,118 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 08:14:17,575 inference INFO: Start inferencing
+2021-05-08 08:14:46,839 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 08:15:07,892 inference INFO: Start inferencing
+2021-05-08 08:15:14,959 inference INFO: batch_time: 1.1774 batch_memory: 2.30
+2021-05-08 08:15:14,960 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 08:17:28,619 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 08:17:50,041 inference INFO: Start inferencing
+2021-05-08 08:17:57,252 inference INFO: batch_time: 1.2014 batch_memory: 2.30
+2021-05-08 08:17:57,253 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 08:24:23,679 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 08:24:46,178 inference INFO: Start inferencing
+2021-05-08 08:28:45,107 inference INFO: batch_time: 0.3823 batch_memory: 2.30
+2021-05-08 08:28:45,108 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 10:35:33,431 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 10:51:23,952 inference INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-08 10:51:46,258 inference INFO: Start inferencing
+2021-05-08 10:55:50,307 inference INFO: batch_time: 0.3905 batch_memory: 2.30
+2021-05-08 10:55:50,308 inference INFO: Saving results to output_logs/caption_results.json
+2021-05-08 10:56:32,482 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 10:56:32,504 evaluate INFO: loading predictions from output_logs/caption_results.json
+2021-05-08 10:57:32,297 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 10:57:32,318 evaluate INFO: loading predictions from output_logs/caption_results.json
+2021-05-08 11:18:00,468 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 11:18:00,490 evaluate INFO: loading predictions from output_logs/caption_results.json
+2021-05-08 11:18:00,499 evaluate INFO: Start evaluating
+2021-05-08 11:18:31,936 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 11:18:31,957 evaluate INFO: loading predictions from output_logs/caption_results.json
+2021-05-08 11:18:31,965 evaluate INFO: Start evaluating
+2021-05-08 11:21:44,447 evaluate INFO: loading ground-truths from output_logs/gt_captions.json
+2021-05-08 11:21:44,467 evaluate INFO: loading predictions from output_logs/caption_results.json
+2021-05-08 11:21:44,476 evaluate INFO: Start evaluating
+2021-05-08 11:21:58,182 evaluate INFO: C: 0.5434 R: 0.4815 B1: 0.5875 B2: 0.4346 B3: 0.3065 B4: 0.2136
+2021-05-10 18:30:33,063 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
+2021-05-10 19:42:32,258 pretrain_generator INFO: Running with config:
+detections_file: /ds/images/coco-detections/coco_detections.hdf5
+device: cuda
+log_time: 10
+loss:
+  balance_weight: 0.5
+  label_smoothing: 0.1
+model_path: /netscratch/deshmukh/thesis/GAN-Captioning/saved_models/
+num_epochs: 100
+root_dir: /netscratch/deshmukh/train_valid_test_splits/
+save_dir: output_logs
+scheduler:
+  max_steps: 100000
+  warmup_steps: 1000
+solver:
+  betas: (0.9, 0.999)
+  grad_clip: 1.0
+  lr: 5e-05
+  weight_decay: 0.01
+train_batch_size: 64
+val_batch_size: 64
